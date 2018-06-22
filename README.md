@@ -1,5 +1,7 @@
 # Driving in the Matrix
 
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/driving-in-the-matrix.svg)](https://hub.docker.com/r/icra2017/driving-in-the-matrix/)
+
 Steps to reproduce training results for the paper 
 [Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?](https://arxiv.org/abs/1610.01983)
 conducted at [UM & Ford Center for Autonomous Vehicles (FCAV)](https://fcav.engin.umich.edu).
